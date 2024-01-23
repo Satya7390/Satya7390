@@ -1,4 +1,4 @@
-![logo](https://github.com/Satya7390/Satya7390/blob/main/Screenshot%202024-01-24%20032136.png)
+![logo](https://github.com/Satya7390/Satya7390/blob/main/GitHub-Profile.png)
 <h1 align="center">Hi 👋, I'm Satyanand Gupta</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding-pic" width="350" src="https://th.bing.com/th/id/OIG.X3Ll9MPfSrVNNCXrXfTX?w=1024&h=1024&rs=1&pid=ImgDetMain"/>
