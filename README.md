@@ -1,7 +1,7 @@
 ![logo](https://github.com/Satya7390/Satya7390/blob/main/GitHub-Profile-banner.png)
 <h1 align="center">Hi 👋, I'm Satyanand Gupta</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="coding-pic" width="350" src="https://th.bing.com/th/id/OIG.X3Ll9MPfSrVNNCXrXfTX?w=1024&h=1024&rs=1&pid=ImgDetMain"/>
+<img align="right" alt="coding-pic" width="350" src="OIG.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya7390&label=Profile%20views&color=0e75b6&style=flat" alt="satya7390" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@satyana13916844" target="blank"><img src="https://img.shields.io/twitter/follow/@satyana13916844?logo=twitter&style=for-the-badge" alt="@satyana13916844" /></a> </p>
