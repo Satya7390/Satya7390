@@ -53,12 +53,10 @@
 <img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
 </p>
 
-<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
-
 <p>
 <h3 align="left">Hacktoberfest '24 Badges 🚀</h3>
-<img src="hack24.png" alt="hacktober24" width="auto" height="auto"/> 
-<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+<img src="hack24.png" alt="hacktober24" width="full" height="auto"/> 
+<img src="liner.gif" alt="linepic" width="full" height="auto"/> 
 </p>
 
-<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+
