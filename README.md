@@ -46,3 +46,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya7390&" alt="satya7390" /></p>
 
 <img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+
+<p>
+<h3 align="left">Hacktoberfest '23 Badges 🚀</h3>
+<img src="hack23.png" alt="hacktober23" width="auto" height="auto"/> 
+<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+</p>
+
+<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+
+<p>
+<h3 align="left">Hacktoberfest '24 Badges 🚀</h3>
+<img src="hack24.png" alt="hacktober24" width="auto" height="auto"/> 
+<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
+</p>
+
+<img src="liner.gif" alt="linepic" width="auto" height="auto"/> 
