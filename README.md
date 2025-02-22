@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **techsatya730@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZaxMMYe-9MPCHIKLpPrMaruuNUlPofp4/view?usp=sharing](https://drive.google.com/file/d/1ZaxMMYe-9MPCHIKLpPrMaruuNUlPofp4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a9zYiCtW-FXQT9axsz6wjPhuCKoIlxY2](https://drive.google.com/file/d/1a9zYiCtW-FXQT9axsz6wjPhuCKoIlxY2)
 
 - 🎙️🏸My Hobbies **Singing and listening Songs,Badminton**
 
