@@ -69,7 +69,9 @@
 
 ---
 
-> "Code. Collaborate. Create Impact." — Let's build something amazing together!
+> 💡 **"Code. Collaborate. Create Impact."**  
+> _Let’s build something amazing together!_
+
 
 
 <h3 align="left">Languages and Tools:</h3>
