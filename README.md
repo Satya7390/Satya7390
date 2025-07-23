@@ -4,31 +4,65 @@
 <img align="right" alt="coding-pic" width="350" src="OIG.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya7390&label=Profile%20views&color=0e75b6&style=flat" alt="satya7390" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@satyana13916844" target="blank"><img src="https://img.shields.io/twitter/follow/@satyana13916844?logo=twitter&style=for-the-badge" alt="@satyana13916844" /></a> </p>
+<!-- <p align="left"> <a href="https://www.linkedin.com/in/satyanand-gupta-836106282/" target="blank"><img src="https://img.shields.io/twitter/follow/@satyana13916844?logo=twitter&style=for-the-badge" alt="satyanand-gupta-836106282" /></a> </p> -->
+---
 
-- 🌱 I’m currently learning **Google Cloud , Courses etc.**
+<h2>🔧 About Me</h2>
+- 🌱 I’m currently learning **Google Cloud**, advanced development courses, and new technologies.
+- 👨‍💻 I’m currently working on **Full Stack Web Development** using MERN stack.
+- 🤝 I’m open to collaboration and mentorship in tech communities.
+- 💡 I’m always eager to help others and grow together in tech.
+- 🔗 My portfolio: [satya-portfolio.vercel.app](https://satya-portfolio.vercel.app)
 
-- 👯 I’m currently Working on **FullStack**
+---
 
-- 🤝 I’m looking for help with **Others**
+<h2>💬 Ask Me About</h2>
+'🌐 Frontend', | '☁️ Google Cloud Arcade Programs', | '📡 IoT', | '🧠 New Technologies'
 
-- 👨‍💻 All of my projects are available at [https://satya-portfolio.vercel.app/#](https://satya-portfolio.vercel.app/#)
-
-- 💬 Ask me about **Fronted ,Cloud ,IOT**
-
-- 📫 How to reach me **techsatya730@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a9zYiCtW-FXQT9axsz6wjPhuCKoIlxY2](https://drive.google.com/file/d/1a9zYiCtW-FXQT9axsz6wjPhuCKoIlxY2)
-
-- 🎙️🏸My Hobbies **Singing and listening Songs,Badminton**
 
 <h3 align="left">Connect with me:</h3>
+
+- 📧 Email: [techsatya730@gmail.com](mailto:techsatya730@gmail.com)
+
 <p align="left">
-<a href="https://twitter.com/@satyana13916844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@satyana13916844" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/satyanand gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyanand gupta" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/satyanand-gupta-836106282/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <a href="https://twitter.com/satyana13916844" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  
+  <a href="https://youtube.com/@TechSatya25" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+
+  <a href="https://whatsapp.com/channel/0029VaJ3kVcDeONEiT2Fzr0f" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Channel" height="30" width="40" />
+  </a>
 </p>
+
+
+---
+
+## 📁 Explore My Work
+
+- 👨‍💻 All my projects are showcased on my [Portfolio Website](https://satya-portfolio.vercel.app/)
+- 📎 My Resume/CV: [View on Google Drive](https://drive.google.com/file/d/1IPuB7jnN-GqBqcGZJMk8BdtJVabTEGjp/view?usp=sharing)
+
+---
+
+## 🎧 Hobbies & Interests
+
+- 🎵 Singing & Listening to Music
+- 🏸 Playing Badminton
+- 🧠 Solving DSA problems
+- 💻 Building Projects & Contributing to Open Source
+
+---
+
+> "Code. Collaborate. Create Impact." — Let's build something amazing together!
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
