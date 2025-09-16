@@ -56,7 +56,7 @@
 ## 📁 Explore My Work
 
 - 👨‍💻 All my projects are showcased on my [Portfolio Website](https://satya-portfolio.vercel.app/)
-- 📎 My Resume/CV: [View on Google Drive](https://drive.google.com/file/d/1IPuB7jnN-GqBqcGZJMk8BdtJVabTEGjp/view?usp=sharing)
+- 📎 My Resume/CV: [View on Google Drive](https://drive.google.com/file/d/1K3BbrFF9YIOyM8ode17pjtCGfDlTvr8t/view?usp=sharing)
 
 ---
 
