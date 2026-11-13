@@ -37,7 +37,7 @@
 
 </div>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 👨‍💻 About Me
 
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 🔥 Toolbelt & Tech Stack
 
@@ -88,34 +88,7 @@
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Employee Management System</h4>
-      <p>A full-stack enterprise Role-Based Access Control (RBAC) system hosted on AWS.</p>
-      <ul>
-        <li>Built with <strong>Java Spring Boot</strong>, <strong>React.js</strong>, and <strong>MySQL</strong>.</li>
-        <li>Engineered business logic for Leave Management & automated Birthday Email Scheduler via JavaMail.</li>
-        <li>Deployed and configured on <strong>AWS Cloud</strong>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📝 Cloud-Based Document Editor (DociFy)</h4>
-      <p>A collaborative cloud document editor enabling real-time multi-user editing.</p>
-      <ul>
-        <li>Architected with <strong>WebSocket</strong> real-time event streaming.</li>
-        <li>Built with React, Node.js, Express, and MongoDB.</li>
-        <li>Features secure authentication and complete document CRUD workflows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 🐍 GitHub Contribution Snake Animation
 
@@ -128,32 +101,17 @@
   </picture>
 </div>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-  <!-- Streak Stats Card (Reliable & Active) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=satya7390&theme=tokyonight&border=00f7ff&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak Stats" />
   </p>
-
-  <!-- Real-Time Interactive Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=satya7390&theme=tokyo-night&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=false" alt="Satya's GitHub Activity Graph" width="95%" />
-  </p>
-
-  <!-- GitHub Overall Stats & Top Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=satya7390&show_icons=true&theme=tokyonight&hide_border=false" alt="Satya's GitHub Stats" height="175" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya7390&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="175" />
-  </p>
-
 </div>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 🌟 Hacktoberfest Achievements
 
@@ -162,15 +120,21 @@
   <h4>🚀 Hacktoberfest 2025</h4>
   <img src="./hack25.png" alt="Hacktoberfest 2025 Badges" width="85%" />
 
+  <br/><br/>
+  <img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
+
   <h4>🚀 Hacktoberfest 2024</h4>
   <img src="./hack24.png" alt="Hacktoberfest 2024 Badges" width="85%" />
+
+  <br/><br/>
+  <img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
   <h4>🚀 Hacktoberfest 2023</h4>
   <img src="./hack23.png" alt="Hacktoberfest 2023 Badges" width="85%" />
 
 </div>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 ### 🌐 Connect With Me
 
@@ -210,7 +174,7 @@
 
 </div>
 
----
+<img src="./liner.gif" alt="linepic" width="100%" height="auto"/>
 
 <div align="center">
   <blockquote>
