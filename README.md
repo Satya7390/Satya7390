@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   <!-- Header Banner -->
   <img src="./GitHub-Profile-banner.png" alt="Satyanand Gupta - Java Full Stack Developer" width="100%" />
@@ -181,4 +181,4 @@
     💡 <em>"Code with clarity, engineer for scalability, and build to create lasting impact."</em><br>
     <strong>Let’s build something extraordinary together! 🚀</strong>
   </blockquote>
-</div>
+</div> -->
